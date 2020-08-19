@@ -1,9 +1,8 @@
-public class HellowWorld {
+public class HelloWorld {
 
-	public static main(String arg[]){
+	public static void main(String arg[]){
 		System.out.println("Hello World!");
+		System.out.println("Derek");
 	}
-fffff	
-	
-	xx
+
 }
